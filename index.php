@@ -9,8 +9,8 @@ require ('header.php');
     </section>
     <section id="projects" class="section2">
      <div  class="section-content2">
-        <h1 >Project's</h1>
-        <h4>Proudly present the project i work on</h4>
+        <h1 style="text-shadow:none;">Project's</h1>
+        <h4 style="text-shadow:none;">Proudly present the project i work on</h4>
         <div class="latest-project">
             <article class="projects project1">
                 <img src="http://lorempixel.com/350/200/sports/">
@@ -32,8 +32,8 @@ require ('header.php');
     </section>
     <section id="about-me" class="section1 about-me">
          <div class="section-content3">
-        <h1>About Me and My Work</h1>
-        <h4>Few Lines About Me</h4>
+        <h1 style="text-shadow:none;">About Me and My Work</h1>
+        <h4 style="text-shadow:none;">Few Lines About Me</h4>
         </div>
         <div class="first-half">
        <div class="img-holder">
@@ -48,8 +48,8 @@ In sit amet ex erat. Vestibulum cursus aliquam eros euismod luctus. Phasellus qu
     </section>
      <section id="reference" class="section2 section3">
      <div  class="section-content4">
-        <h1 >My Reference's</h1>
-        <h4>What Oder Say About Me</h4>
+        <h1 style="text-shadow:none;">My Reference's</h1>
+        <h4 style="text-shadow:none;">What Oder Say About Me</h4>
   
     </div>
    <div class="left-section">
